@@ -57,7 +57,7 @@ let questions = [
       {
         numb: 6,
         question:"El ancho de vía de metro ligero Madrid es:",
-        answer: '1445mm',
+        answer: '1435mm',
         options: [
             '1445mm',
             '1415mm',
